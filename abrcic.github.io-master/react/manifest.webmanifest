@@ -1,0 +1,15 @@
+{
+    "background_color": "purple",
+    "description": "React ToDoMVC as a PWA.",
+    "display": "fullscreen",
+    "icons": [
+      {
+        "src": "Hrvatska_PNG.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ],
+    "name": "React ToDoMVC PWA",
+    "short_name": "reactToDoPWA",
+    "start_url": "/react/index.html"
+  }
